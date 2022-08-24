@@ -1,5 +1,6 @@
 # Dissatisfaction30 Macropad
 
+![dissat-2](https://user-images.githubusercontent.com/800930/186301179-d491568f-f4f8-498a-8bcc-8723f6fd946e.jpg)
 
 Here you will find all the source files I used for my build.
 
