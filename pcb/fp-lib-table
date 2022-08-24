@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "dissat")(type "KiCad")(uri "${KIPRJMOD}/dissat.pretty")(options "")(descr ""))
+)
