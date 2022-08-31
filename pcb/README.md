@@ -2,7 +2,7 @@
 
 ![Dissatisfaction30 - Imgur](https://user-images.githubusercontent.com/800930/187589746-8d064423-baf6-4710-8635-935d9f0d5ee1.jpg)
 
-To get the PCB manufactured, upload `dissat-pcb.zip` to [JLCPCB](https://jlcpcb.com), select your desired PCB color while keeping all the other default options, and place your order (minum 5).  If you made tweaks to the PCB in KiCad, follow [this tutorial](https://support.jlcpcb.com/article/194-how-to-generate-gerber-and-drill-files-in-kicad-6) for generating new Gerber files
+To get the PCB manufactured, upload `dissat-pcb.zip` to [JLCPCB](https://jlcpcb.com), select your desired PCB color while keeping all the other default options, and place your order (minimum 5).  If you made tweaks to the PCB in KiCad, follow [this tutorial](https://support.jlcpcb.com/article/194-how-to-generate-gerber-and-drill-files-in-kicad-6) to generate new Gerber files
 
 ## Requied Components
 | Name                   | Qty | Notes |
@@ -17,4 +17,6 @@ To get the PCB manufactured, upload `dissat-pcb.zip` to [JLCPCB](https://jlcpcb.
 | Kailh hot swap socket  | 30  | [Link](https://www.aliexpress.com/item/2255800865526224.html?spm=a2g0o.order_list.0.0.71e51802oef56x&gatewayAdapt=4itemAdapt)
 | BAV70 SMD diode        | 16  | [Link](https://www.digikey.com/en/products/detail/onsemi/BAV70LT3G/1475508)
 
-You will need to sand the OLED header down so that the plastic is about 7mm hight (not including the pins).  Also remove any plastic spacers on the OLED pins, and make sure the pins insert fully into the shoter header.  If it doesn't sit flush with the OLED PCB, cut the OLED pins a bit shorter until it does.
+You will need to sand the OLED header down so that the plastic is about 7mm in height (not including the pins).  Also remove any plastic spacers on the OLED pins, and make sure the pins insert fully into the now shorter header.  If it doesn't sit flush with the OLED PCB, cut the OLED pins a bit shorter until it does.
+
+It is also possible to replace the Elite-C with a nice!nano for wireless support since the bottom 5 pins are not used.
