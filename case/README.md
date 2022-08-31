@@ -7,6 +7,8 @@ This is a tray mount case that still needs a lot of design improvements.  The go
 | -------- | ---- | -------- | ----- |
 | Upper | M2x8mm standoff | 3 |
 | Lower | M2x13mm standoffs | 3 |
+| Top | M2x8mm screws | 6 |
+| Bottom | M2x6mm screws | 6 |
 | | 3mm acrylic | 9 layers |
 | | Double sided adhesive | 1 | [Link](https://smile.amazon.com/gp/product/B00CCGK31G/)
 
@@ -25,8 +27,10 @@ This is a tray mount case that still needs a lot of design improvements.  The go
 |  c) Plate holes | 1.5mm acrylic | 1 |
 
 ## Guide
-Use `plate-mount.ai` and cut the 9 layers of acrylic needed for the case (labled `#1` - `#9`).  You will also need to cut 3 layers of EVA foam (see table above for layer name and thickness).  Screw layers `#3` - `#9` together.  The first two layers will be held on top by the double-sided adhesive.
+Use `plate-mount.ai` and cut the 9 layers of acrylic needed for the case (labled `#1` - `#9`).  You will also need to cut 3 layers of EVA foam (see table above for layer name and thickness).  Screw layers `#3` - `#9` together (see case table above for screw/standoff positions).  Do not secure the first two layers yet since they will be held on top by the double-sided adhesive.
 
-Place the 1.5mm bottom foam on the bottom of the case.  Attach the M2x5mm standoffs to the bottom of the PCB using the M2x4mm screws.  Place the PCB with standoffs attached over the bottom foam, and secure the PCB to the case with M2x4mm from the underside of the case.  Place the 2mm and 1.5mm plate foam on top of the PCB, and then the switch plate on top of the 2 layers of foam, making sure the switch holes are lined up.
+Place the 1.5mm bottom foam on the bottom of the case.  Attach the M2x5mm standoffs to the bottom of the PCB using the M2x4mm screws.  Place the PCB with standoffs attached over the bottom foam, and secure the PCB to the case with M2x4mm from the underside of the case. It may seem like the bottom mount holes are too big since the entire spacer fits through, but this was intentional in order reduce space under the PCB.  The intent was for the bottom foam to be just thick enough to keep the screws flush against the case bottom.
+
+Place the 2mm and 1.5mm plate foam on top of the PCB, and then the switch plate on top of the 2 layers of foam, making sure the switch holes are lined up.
 
 Push all the switches into the switch plate.  Cut strips of double-sided adhesive so that they fit around the edges of the layer `#3` and secure layer `#2` on top, making sure it's centered.  Cut more strips of double-sided adhesive and place them around the edges of layer `#2`.  Finally secure the top layer `#1` on top while making sure it's centered.
