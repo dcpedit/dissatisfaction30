@@ -1,5 +1,7 @@
 # Dissatisfaction30 PCB
 
+![Dissatisfaction30 - Imgur](https://user-images.githubusercontent.com/800930/187589746-8d064423-baf6-4710-8635-935d9f0d5ee1.jpg)
+
 To get the PCB manufactured, upload `dissat-pcb.zip` to [JLCPCB](https://jlcpcb.com), select your desired PCB color while keeping all the other default options, and place your order (minum 5).  If you made tweaks to the PCB in KiCad, follow [this tutorial](https://support.jlcpcb.com/article/194-how-to-generate-gerber-and-drill-files-in-kicad-6) for generating new Gerber files
 
 ## Requied Components
