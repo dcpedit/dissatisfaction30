@@ -1,5 +1,7 @@
 # Dissatisfaction30 Stacked Acrylic Case (prototype)
 
+<img src="https://user-images.githubusercontent.com/800930/189470515-34997a4e-c0cf-4e6e-b7fe-2e8514231377.jpg" />
+
 This is a tray mount case that still needs a lot of design improvements.  The goal was to hide the case screws by using adhesive to secure to top 2 layers.  You will need the following hardware
 
 ## Case
@@ -29,17 +31,16 @@ This is a tray mount case that still needs a lot of design improvements.  The go
 ## Guide
 Use `plate-mount.ai` and cut the 9 layers of acrylic needed for the case (labled `#1` - `#9`).  You will also need to cut 3 layers of EVA foam (see table above for layer name and thickness).  Screw layers `#3` - `#9` together (see case table above for screw/standoff positions).  Do not secure the first two layers yet since they will be held on top by the double-sided adhesive.
 
+<img src="https://user-images.githubusercontent.com/800930/189470548-3faac502-d5f0-44d2-832b-f31da5eeb796.jpg" width="300"/>
+
 Place the 1.5mm bottom foam on the bottom of the case.  Attach the M2x5mm standoffs to the bottom of the PCB using the M2x4mm screws.  Place the PCB with standoffs attached over the bottom foam, and secure the PCB to the case with M2x4mm from the underside of the case. It may seem like the bottom mount holes are too big since the entire spacer fits through, but this was intentional in order reduce space under the PCB.  The intent was for the bottom foam to be just thick enough to keep the screws flush against the case bottom.
 
-Place the 2mm and 1.5mm plate foam on top of the PCB, and then the switch plate on top of the 2 layers of foam, making sure the switch holes are lined up.
+<img src="https://user-images.githubusercontent.com/800930/189470561-42219932-8e64-456a-a456-44afedf69faf.jpg" width="300"/>
 
-Push all the switches into the switch plate.  Cut strips of double-sided adhesive so that they fit around the edges of the layer `#3` and secure layer `#2` on top, making sure it's centered.  Cut more strips of double-sided adhesive and place them around the edges of layer `#2`.  Finally secure the top layer `#1` on top while making sure it's centered.
+Place the 2mm and 1.5mm plate foam on top of the PCB, and then the switch plate on top of the 2 layers of foam, making sure the switch holes are lined up.  Push all the switches into the switch plate.  You can put together the PCB + plate foam + plate + switches first, and then place the whole assembly inside the case.
 
-![dissat30build-3](https://user-images.githubusercontent.com/800930/189470515-34997a4e-c0cf-4e6e-b7fe-2e8514231377.jpg)
-![dissat30build-12](https://user-images.githubusercontent.com/800930/189470548-3faac502-d5f0-44d2-832b-f31da5eeb796.jpg)
-![dissat30build-6](https://user-images.githubusercontent.com/800930/189470574-80f6a5b0-55e1-4632-96df-4228814d7f6d.jpg)
+<img src="https://user-images.githubusercontent.com/800930/189470574-80f6a5b0-55e1-4632-96df-4228814d7f6d.jpg" width="300"/>
 
-![dissat30build-17](https://user-images.githubusercontent.com/800930/189470557-94b365dc-ad13-47d4-a158-2c5cb3e308a8.jpg)
-![dissat30build-18](https://user-images.githubusercontent.com/800930/189470561-42219932-8e64-456a-a456-44afedf69faf.jpg)
+Cut strips of double-sided adhesive so that they fit around the edges of the layer `#3` and secure layer `#2` on top, making sure it's centered.  Cut more strips of double-sided adhesive and place them around the edges of layer `#2`.  Finally secure the top layer `#1` on top while making sure it's centered.
 
-
+<img src="https://user-images.githubusercontent.com/800930/189470557-94b365dc-ad13-47d4-a158-2c5cb3e308a8.jpg" width="300"/>
