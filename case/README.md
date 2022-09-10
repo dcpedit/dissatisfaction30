@@ -34,3 +34,12 @@ Place the 1.5mm bottom foam on the bottom of the case.  Attach the M2x5mm stando
 Place the 2mm and 1.5mm plate foam on top of the PCB, and then the switch plate on top of the 2 layers of foam, making sure the switch holes are lined up.
 
 Push all the switches into the switch plate.  Cut strips of double-sided adhesive so that they fit around the edges of the layer `#3` and secure layer `#2` on top, making sure it's centered.  Cut more strips of double-sided adhesive and place them around the edges of layer `#2`.  Finally secure the top layer `#1` on top while making sure it's centered.
+
+![dissat30build-3](https://user-images.githubusercontent.com/800930/189470515-34997a4e-c0cf-4e6e-b7fe-2e8514231377.jpg)
+![dissat30build-12](https://user-images.githubusercontent.com/800930/189470548-3faac502-d5f0-44d2-832b-f31da5eeb796.jpg)
+![dissat30build-6](https://user-images.githubusercontent.com/800930/189470574-80f6a5b0-55e1-4632-96df-4228814d7f6d.jpg)
+
+![dissat30build-17](https://user-images.githubusercontent.com/800930/189470557-94b365dc-ad13-47d4-a158-2c5cb3e308a8.jpg)
+![dissat30build-18](https://user-images.githubusercontent.com/800930/189470561-42219932-8e64-456a-a456-44afedf69faf.jpg)
+
+
