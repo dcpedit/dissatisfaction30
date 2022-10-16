@@ -17,8 +17,9 @@ This is a tray mount case that still needs a lot of design improvements.  The go
 ## PCB Mount
 | Position | Size | Quantity |
 | -------- | ---- | -------- |
-| Center | M2x5mm standoff | 4 |
-| Center | M2x4mm screw | 8 |
+| | M2x8mm standoff | 4 |
+| Top | M2x4mm screw | 4 |
+| Bottom | M2x3mm screw | 4 |
 
 ## Foam & Plate
 | Layer Name | Size | Quantity | Notes |
