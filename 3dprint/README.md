@@ -20,6 +20,6 @@ Print the plate and the knob upside down, no supports are required. You will hav
 - Sandwich the plate between the PCB and the switches, and drop it into the case.
 - Use the 4 screws to secure the plate to the standoffs.
 
-![bottom](img/bottom.png)
+![bottom](img/bottom.jpg)
 
-![top](img/top.png)
+![top](img/top.jpg)
